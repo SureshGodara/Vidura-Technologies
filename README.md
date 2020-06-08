@@ -1,4 +1,4 @@
-# Vidura-Technologies
+# Vidura-Technologies By Sunil Jaiswal ji
 @@ -0,0 +1,258 @@  ## About Vidura Technologies is just a game for blockchain,see [https://viduratechnologies.com](https://viduratechnologies.com/). 
 ## Rule analysis
 * = 46% static incomes 
